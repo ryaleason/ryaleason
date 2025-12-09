@@ -13,21 +13,7 @@ I’m a passionate Fullstack Web & Mobile Developer with strong experience in bu
 
 Laravel
 
-React
-
-JavaScript
-
-PHP
-
-C#
-
-TailwindCSS
-
-Bootstrap
-
-Kotlin (Android)
-
-Flutter
+⬤React ⬤JavaScript ⬤PHP ⬤C# ⬤TailwindCSS ⬤Bootstrap ⬤Kotlin (Android) ⬤Flutter
 
 🔥 What I Do
 Build scalable web applications & REST APIs
