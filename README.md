@@ -12,18 +12,30 @@ I’m a passionate Fullstack Web & Mobile Developer with strong experience in bu
 💡 Main Skills:
 
 Laravel
+
 React
+
 JavaScript
+
 PHP
+
 C#
+
 TailwindCSS
+
 Bootstrap
+
 Kotlin (Android)
+
 Flutter
 
 🔥 What I Do
 Build scalable web applications & REST APIs
+
 Develop Android apps dengan Kotlin
+
 Create cross-platform mobile apps with Flutter
+
 Build modern UI dengan Tailwind + React
+
 Write clean, efficient, and maintainable code
