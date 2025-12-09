@@ -1,7 +1,6 @@
 👋 Hi, I'm Ryaleason
 
 I’m a passionate Fullstack Web & Mobile Developer with strong experience in building modern, fast, and scalable applications.
-Menguasai teknologi web & mobile development dan selalu bersemangat mempelajari hal baru.
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Virgarakha)
